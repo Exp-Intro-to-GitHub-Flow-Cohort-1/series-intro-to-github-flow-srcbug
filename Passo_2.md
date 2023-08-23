@@ -19,7 +19,7 @@ _Aprenda a utilizar Github em menos de uma hora._
   Define terms and link to docs.github.com.
 -->
 
-## Passo 2: Eviar um arquivo
+## Passo 2: Enviar um arquivo
 
 _Você criou uma ramificação! :tada:_
 
