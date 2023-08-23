@@ -1,18 +1,3 @@
-<header>
-
-<!--
-  <<< Notas do autor: Cabeçalho do curso >>>
-  Inclui uma imagem de 1280×640, título do curso em fromato de sentença e uma descrição concisa em ênfase.
-  Nas configurações do seu repositório: permita template de repositório, adicione suma imagem social de 1280×640, auto delete dos cabeçalhos de branches.
-  Adicione sua lincença de código aberto, GitHub utiliza a licença MIT.
--->
-
-# Introdução ao GitHub
-
-_Aprenda a utilizar Github em menos de uma hora._
-
-</header>
-
 <!--
   <<< Notas do autor: Primeiro passo >>>
   Escolha 3-5 passos para seu curso.
@@ -58,18 +43,3 @@ Ramificações permitem que você separe seu trabalho do projeto principal, `mai
    O drop-down de ramificações **main** irá sinalizar sua nova ramificação e mostrar o nome do branch.
 
 6. Espere por 20 segundos e atualize esta página (a página pela qual você segue as instruções). [GitHub Actions](https://docs.github.com/en/actions) irá atualizar automaticamente para o próximo passo.
-
-<footer>
-
-<!--
-  <<< Notas do autor: Rodapé >>>
-  Adicione um link de suporte, status da página do Github, código de conduta e o link da licença .
--->
-
----
-
-Receba ajuda: [Poste em nosso quadro de discussões](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Verifique o status da página do GitHub](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Código de conduta](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [Licença MIT](https://gh.io/mit)
-
-</footer>

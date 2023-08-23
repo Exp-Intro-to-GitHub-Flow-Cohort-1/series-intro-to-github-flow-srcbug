@@ -1,18 +1,3 @@
-<header>
-
-<!--
-  <<< Notas do autor: Cabeçalho do curso >>>
-  Inclui uma imagem de 1280×640, título do curso em fromato de sentença e uma descrição concisa em ênfase.
-  Nas configurações do seu repositório: permita template de repositório, adicione suma imagem social de 1280×640, auto delete dos cabeçalhos de branches.
-  Adicione sua lincença de código aberto, GitHub utiliza a licença MIT.
--->
-
-# Introdução ao GitHub
-
-_Aprenda a utilizar Github em menos de uma hora._
-
-</header>
-
 <!--
   <<< Notas do autor: Fim >>>
   Revisão do que foi aprendido, solicitação de feedback e próximos passos.
@@ -47,18 +32,3 @@ Dê uma olhada nos links abaixo para aprender mais ou ficar por dentro:
 - [Comece mais um curso da GitHub Skills (EN)](https://github.com/skills).
 - [Lei a documentação do GitHub para iniciantes](https://docs.github.com/pt/get-started).
 - Para achar projetos com que possa contribuir, verifique o [GitHub Explore (EN)](https://github.com/explore).
-
-<footer>
-
-<!--
-  <<< Notas do autor: Rodapé >>>
-  Adicione um link de suporte, status da página do Github, código de conduta e o link da licença .
--->
-
----
-
-Ajuda: [Poste em nosso quadro de discussões](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Verifique o status da página do GitHub](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Código de conduta](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [Licença MIT](https://gh.io/mit)
-
-</footer>

@@ -1,22 +1,7 @@
-<header>
-
 <!--
-  <<< Notas do autor: Cabeçalho do curso >>>
-  Inclui uma imagem de 1280×640, título do curso em fromato de sentença e uma descrição concisa em ênfase.
-  Nas configurações do seu repositório: permita template de repositório, adicione suma imagem social de 1280×640, auto delete dos cabeçalhos de branches.
-  Adicione sua lincença de código aberto, GitHub utiliza a licença MIT.
--->
-
-# Introdução ao GitHub
-
-_Aprenda a utilizar Github em menos de uma hora._
-
-</header>
-
-<!--
-  <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
+  <<< Notas do autor: Passo 2 >>>
+  Inicie este passo parabenizando pelo passo anterior.
+  Defina os termos e links para docs.github.com.
 -->
 
 ## Passo 2: Enviar um arquivo
@@ -55,18 +40,3 @@ Os próximos passos guiarão você no decorrer do processo de envio de alteraç�
 
 6. Nessa aula, iremos ignorar os outros campos e clicar em **Commit changes**.
 7. Espere por 20 segundos e então atualize essa página (a que você está seguindo as instruções da aula). [GitHub Actions](https://docs.github.com/pt/actions) irá atualizar automaticamente para o próximo passo.
-
-<footer>
-
-<!--
-  <<< Notas do autor: Rodapé >>>
-  Adicione um link de suporte, status da página do Github, código de conduta e o link da licença .
--->
-
----
-
-Ajuda: [Poste em nosso quadro de discussões](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Verifique o status da página do GitHub](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Código de conduta](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [Licença MIT](https://gh.io/mit)
-
-</footer>
